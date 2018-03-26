@@ -1,0 +1,36 @@
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\obj\x86\Debug\MainWindow.baml
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\obj\x86\Debug\MainWindow.g.cs
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\obj\x86\Debug\App.g.cs
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\obj\x86\Debug\PerfMon_MarkupCompile.cache
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\obj\x86\Debug\PerfMon.g.resources
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\obj\x86\Debug\PerfMon.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\obj\x86\Debug\PerfMon.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\bin\Debug\PerfMon.exe
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\bin\Debug\PerfMon.pdb
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\obj\x86\Debug\PerfMon.exe
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\obj\x86\Debug\PerfMon.pdb
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\obj\x86\Debug\PerfMon.csprojResolveAssemblyReference.cache
+E:\PerfMon\PerfMon\obj\x86\Debug\PerfMon.exe
+E:\PerfMon\PerfMon\obj\x86\Debug\PerfMon.pdb
+E:\PerfMon\PerfMon\bin\Debug\PerfMon.exe
+E:\PerfMon\PerfMon\bin\Debug\PerfMon.pdb
+E:\PerfMon\PerfMon\obj\x86\Debug\PerfMon.csprojResolveAssemblyReference.cache
+E:\PerfMon\PerfMon\obj\x86\Debug\MainWindow.baml
+E:\PerfMon\PerfMon\obj\x86\Debug\MainWindow.g.cs
+E:\PerfMon\PerfMon\obj\x86\Debug\App.g.cs
+E:\PerfMon\PerfMon\obj\x86\Debug\PerfMon_MarkupCompile.cache
+E:\PerfMon\PerfMon\obj\x86\Debug\PerfMon.g.resources
+E:\PerfMon\PerfMon\obj\x86\Debug\PerfMon.Properties.Resources.resources
+E:\PerfMon\PerfMon\obj\x86\Debug\PerfMon.csproj.GenerateResource.Cache
+D:\PerfMon\PerfMon\obj\x86\Debug\PerfMon.exe
+D:\PerfMon\PerfMon\obj\x86\Debug\PerfMon.pdb
+D:\PerfMon\PerfMon\bin\Debug\PerfMon.exe
+D:\PerfMon\PerfMon\bin\Debug\PerfMon.pdb
+D:\PerfMon\PerfMon\obj\x86\Debug\PerfMon.csprojResolveAssemblyReference.cache
+D:\PerfMon\PerfMon\obj\x86\Debug\MainWindow.baml
+D:\PerfMon\PerfMon\obj\x86\Debug\MainWindow.g.cs
+D:\PerfMon\PerfMon\obj\x86\Debug\App.g.cs
+D:\PerfMon\PerfMon\obj\x86\Debug\PerfMon_MarkupCompile.cache
+D:\PerfMon\PerfMon\obj\x86\Debug\PerfMon.g.resources
+D:\PerfMon\PerfMon\obj\x86\Debug\PerfMon.Properties.Resources.resources
+D:\PerfMon\PerfMon\obj\x86\Debug\PerfMon.csproj.GenerateResource.Cache

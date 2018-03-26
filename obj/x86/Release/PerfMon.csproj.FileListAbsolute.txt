@@ -1,0 +1,22 @@
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\bin\Release\PerfMon.exe
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\bin\Release\PerfMon.pdb
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\obj\x86\Release\MainWindow.baml
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\obj\x86\Release\MainWindow.g.cs
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\obj\x86\Release\App.g.cs
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\obj\x86\Release\PerfMon_MarkupCompile.cache
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\obj\x86\Release\PerfMon.g.resources
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\obj\x86\Release\PerfMon.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\obj\x86\Release\PerfMon.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\obj\x86\Release\PerfMon.exe
+D:\Visual Studio 2010\Projects\PerfMon\PerfMon\obj\x86\Release\PerfMon.pdb
+D:\PerfMon\PerfMon\obj\x86\Release\PerfMon.exe
+D:\PerfMon\PerfMon\obj\x86\Release\PerfMon.pdb
+D:\PerfMon\PerfMon\bin\Release\PerfMon.exe
+D:\PerfMon\PerfMon\bin\Release\PerfMon.pdb
+D:\PerfMon\PerfMon\obj\x86\Release\MainWindow.baml
+D:\PerfMon\PerfMon\obj\x86\Release\MainWindow.g.cs
+D:\PerfMon\PerfMon\obj\x86\Release\App.g.cs
+D:\PerfMon\PerfMon\obj\x86\Release\PerfMon_MarkupCompile.cache
+D:\PerfMon\PerfMon\obj\x86\Release\PerfMon.g.resources
+D:\PerfMon\PerfMon\obj\x86\Release\PerfMon.Properties.Resources.resources
+D:\PerfMon\PerfMon\obj\x86\Release\PerfMon.csproj.GenerateResource.Cache
